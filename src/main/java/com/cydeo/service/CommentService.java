@@ -3,12 +3,14 @@ package com.cydeo.service;
 import com.cydeo.model.Comment;
 import com.cydeo.proxy.CommentNotificationProxy;
 import com.cydeo.repository.CommentRepository;
-import com.cydeo.repository.DBCommentRepository;
+import org.springframework.stereotype.Component;
 
+@Component
 public class CommentService {
 
-    private CommentRepository commentRepository;
-    private CommentNotificationProxy commentNotificationProxy;
+    private final CommentRepository commentRepository;                  //always will be final (for don't mistake)
+    private final CommentNotificationProxy commentNotificationProxy;    //always will be final
+
 
     //we have to Constructor for the @Autowired (it will be automatically)
     public CommentService(CommentRepository commentRepository, CommentNotificationProxy commentNotificationProxy) {

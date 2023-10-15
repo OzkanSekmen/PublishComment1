@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abb231a0-a412-4842-a268-da9f935789eb" name="Changes" comment="initial classes.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/CommentApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/config/CommentConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/proxy/CommentNotificationProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/proxy/CommentNotificationProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/proxy/EmailCommentNotificationProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/proxy/EmailCommentNotificationProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/repository/DBCommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/repository/DBCommentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/CommentApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/CommentApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/service/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/service/CommentService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697370352338</updated>
       <workItem from="1697370354367" duration="2323000" />
-      <workItem from="1697391371759" duration="2668000" />
+      <workItem from="1697391371759" duration="3752000" />
     </task>
     <task id="LOCAL-00001" summary="initial classes.">
       <created>1697371406353</created>
@@ -92,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697372577536</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial classes.">
+      <created>1697394085393</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697394085393</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
