@@ -4,14 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abb231a0-a412-4842-a268-da9f935789eb" name="Changes" comment="" />
+    <list default="true" id="abb231a0-a412-4842-a268-da9f935789eb" name="Changes" comment="initial classes.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/CommentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/config/CommentConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/proxy/CommentNotificationProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/proxy/CommentNotificationProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/proxy/EmailCommentNotificationProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/proxy/EmailCommentNotificationProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/repository/DBCommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/repository/DBCommentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/service/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/service/CommentService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -31,7 +50,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "72cb12783923d0dc15c189907ac8990a",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -43,8 +68,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697370352338</updated>
-      <workItem from="1697370354367" duration="4000" />
+      <workItem from="1697370354367" duration="2323000" />
+      <workItem from="1697391371759" duration="2668000" />
     </task>
+    <task id="LOCAL-00001" summary="initial classes.">
+      <created>1697371406353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697371406353</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial classes.">
+      <created>1697371849171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697371849171</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial classes.">
+      <created>1697372577536</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697372577536</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial classes." />
+    <option name="LAST_COMMIT_MESSAGE" value="initial classes." />
   </component>
 </project>
